@@ -1,7 +1,7 @@
 # Hi, I'm Manesh Ram 
 
 ### Computer Science Student
-* Computer Science Engineer and Quantum-ML Researcher working at the intersection of Quantum Computing, Applied AI/ML, High-Performance Systems, and Financial Intelligence[cite: 1].
+* Computer Science Engineer and Quantum-ML Researcher working at the intersection of Quantum Computing, Applied AI/ML, High-Performance Systems, and Financial Intelligence.
 * **Quantum & AI/ML Research:** Hands-on experience developing hybrid quantum-classical algorithms, swarm intelligence optimization models, post-quantum security research, and computer vision applications.
 * **Financial Engineering & Markets:** Formal certification in Financial Markets from Yale University, specializing in engineering quantitative risk systems and algorithmic portfolio optimization models.
 * **Full-Stack & Cloud Architecture:** Proficient in production-grade software development using the MERN stack alongside AWS cloud infrastructure, including EC2, S3, and Lambda.

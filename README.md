@@ -36,10 +36,10 @@
 
 ### Experience
 
-#### **Quantum Research Intern** | IIIT-Nagpur *(May 2026 – Present)*[cite: 1]
-* Conducted literature reviews on post-quantum cryptography, quantum-inspired optimization, and network security to identify architectural gaps[cite: 1].
-* Built a quantum-classical hybrid portfolio optimizer using Harris Hawks swarm intelligence guided by Qiskit quantum-random search trajectories, with a fine-tuned FinBERT sentiment model as a risk guardrail on allocations[cite: 1].
-* Benchmarked quantum vs. classical randomness across multiple runs, demonstrating comparable performance with statistical validation (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma\approx0.02$)[cite: 1].
+#### **Quantum Research Intern** | IIIT-Nagpur *(May 2026 – Present)*
+* Conducted literature reviews on post-quantum cryptography, quantum-inspired optimization, and network security to identify architectural gaps.
+* Built a quantum-classical hybrid portfolio optimizer using Harris Hawks swarm intelligence guided by Qiskit quantum-random search trajectories, with a fine-tuned FinBERT sentiment model as a risk guardrail on allocations.
+* Benchmarked quantum vs. classical randomness across multiple runs, demonstrating comparable performance with statistical validation (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma\approx0.02$).
 
 ---
 

@@ -1,11 +1,14 @@
 # Hi, I'm Manesh Ram 
 
 ### Computer Science Student
-B.E. Computer Science and Engineering student at College of Engineering, Anna University. Passionate about Quantum Machine Learning, Cloud Computing, Financial Systems and Autonomous Systems.
+* Computer Science Engineer and Quantum-ML Researcher working at the intersection of Quantum Computing, Applied AI/ML, High-Performance Systems, and Financial Intelligence[cite: 1].
+* **Quantum & AI/ML Research:** Hands-on experience developing hybrid quantum-classical algorithms, swarm intelligence optimization models, post-quantum security research, and computer vision applications[cite: 1].
+* **Financial Engineering & Markets:** Formal certification in Financial Markets from Yale University, specializing in engineering quantitative risk systems and algorithmic portfolio optimization models[cite: 1].
+* **Full-Stack & Cloud Architecture:** Proficient in production-grade software development using the MERN stack alongside AWS cloud infrastructure, including EC2, S3, and Lambda[cite: 1].
 
 ---
 
-### 💻 Technical Skills
+### Technical Skills
 
 #### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,17 +36,14 @@ B.E. Computer Science and Engineering student at College of Engineering, Anna Un
 
 ### Experience
 
-#### **Quantum Research Intern** | IIIT-Nagpur *(May 2026 – Present)
-* Conducted literature reviews on post-quantum cryptography, quantum-inspired optimization, and network security to identify architectural gaps.
-* Built a quantum-classical hybrid portfolio optimizer using Harris Hawks swarm intelligence guided by Qiskit quantum-random search trajectories, with a fine-tuned FinBERT sentiment model as a risk guardrail on allocations.
-* Benchmarked quantum vs. classical randomness across multiple runs, demonstrating comparable performance with statistical validation (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma\approx0.02$).
+#### **Quantum Research Intern** | IIIT-Nagpur *(May 2026 – Present)*[cite: 1]
+* Conducted literature reviews on post-quantum cryptography, quantum-inspired optimization, and network security to identify architectural gaps[cite: 1].
+* Built a quantum-classical hybrid portfolio optimizer using Harris Hawks swarm intelligence guided by Qiskit quantum-random search trajectories, with a fine-tuned FinBERT sentiment model as a risk guardrail on allocations[cite: 1].
+* Benchmarked quantum vs. classical randomness across multiple runs, demonstrating comparable performance with statistical validation (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma\approx0.02$)[cite: 1].
 
 ---
 
-
----
-
-###Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="mailto:maneshrammg@gmail.com">

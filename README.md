@@ -60,9 +60,9 @@
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
-- 🥇 **Top 30 Finalist — Google DeepMind 2026 (Bangalore)**, recognized for an AI solution built on DeepMind frameworks and modern model architectures.
+- **Top 30 Finalist — Google DeepMind 2026 (Bangalore)**, recognized for an AI solution built on DeepMind frameworks and modern model architectures.
 
 ---
 
@@ -94,5 +94,4 @@
 
 ---
 
-### 📫 Reach Me
-📧 [maneshrammg@gmail.com](mailto:maneshrammg@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/manesh-ram-3bbb17285/)
+

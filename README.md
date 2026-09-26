@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manesh Ram </h1>
-<h3 align="center">B.E. CSE, College of Engineering Guindy (Anna University) · Quantum-ML Researcher</h3>
+<h3 align="center">B.E. CSE, College of Engineering Guindy (Anna University)</h3>
 
 <p align="center">
   <a href="mailto:maneshrammg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>

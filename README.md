@@ -1,54 +1,63 @@
-Hi, I'm Manesh Ram
+<h1 align="center">Hi, I'm Manesh Ram 👋</h1>
+<h3 align="center">Computer Science Engineer · Quantum-ML Researcher · Quant Finance Enthusiast</h3>
 
-Computer Science Student
+<p align="center">
+  Working at the intersection of <b>Quantum Computing</b>, <b>Applied AI/ML</b>, <b>High-Performance Systems</b>, and <b>Financial Intelligence</b>.
+</p>
 
-Computer Science Engineer and Quantum-ML Researcher working at the intersection of Quantum Computing, Applied AI/ML, High-Performance Systems, and Financial Intelligence.
+<p align="center">
+  <a href="mailto:maneshrammg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manesh-ram-3bbb17285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Quantum & AI/ML Research: Hands-on experience developing hybrid quantum-classical algorithms, swarm intelligence optimization models, post-quantum security research, and computer vision applications.
+---
 
-Financial Engineering & Markets: Formal certification in Financial Markets from Yale University, specializing in engineering quantitative risk systems, algorithmic portfolio optimization models, and AI-driven financial NLP analytics.
+### What I Do
 
-Full-Stack & Cloud Architecture: Proficient in production-grade software development using the MERN stack alongside AWS cloud infrastructure (EC2, S3, Lambda) for deploying scalable machine learning and optimization pipelines.
+- **Quantum & AI/ML Research** — Building hybrid quantum-classical algorithms, swarm-intelligence optimization models, post-quantum security research, and computer vision applications.
+- **Financial Engineering & Markets** — Yale-certified in Financial Markets; focused on quantitative risk systems, algorithmic portfolio optimization, and AI-driven financial NLP analytics.
+- **Full-Stack & Cloud Architecture** — Production-grade development with the MERN stack, deployed on AWS (EC2, S3, Lambda) for scalable ML and optimization pipelines.
 
-Technical Skills
+---
 
-Languages & Frameworks
+### Achievements
 
-Quantum, AI/ML & Swarm Intelligence
+- 🥇 **Top 30 Finalist — Google DeepMind 2026 (Bangalore)**, recognized for an AI solution built on DeepMind frameworks and modern model architectures.
 
-Cloud, DevOps & Databases
+---
 
-Achievements
+### Featured Project
 
-Top 30 Finalist | Google DeepMind 2026 (Bangalore): Recognized among the top 30 participants for developing advanced AI solutions leveraging Google DeepMind frameworks and cutting-edge architectures.
+#### [Quantum-Swarm Hybrid Portfolio Optimizer](https://github.com/manesh-06/quantum-portfolio-app)
+*A quantum-classical hybrid engine for algorithmic asset allocation and automated financial reporting.*
 
-Featured Projects
+- **Hybrid Quantum-Swarm Engine** — Combines Harris Hawks Optimization (HHO) with Qiskit-based quantum-random trajectory sampling to navigate non-convex risk landscapes.
+- **Financial NLP & Risk Guardrails** — Uses fine-tuned FinBERT to parse market sentiment and earnings dynamics, dynamically constraining optimization bounds.
+- **Automated Reporting Pipeline** — Converts mathematical risk vectors and backtest metrics into executive-ready quantitative research reports via an LLM narrative layer.
+- **Cloud-Native** — Asynchronous data streaming and model evaluation scaled on AWS EC2/S3.
+- Benchmarked quantum-enhanced stochastic sampling against classical baselines: **Sharpe ratio ≈ 1.29 vs. 1.28** (σ ≈ 0.02) — an honest, statistically-grounded comparison rather than an overstated win.
 
-Quantum-Swarm Hybrid Portfolio Optimizer & Automated Financial Reporting
+---
 
-Hybrid Quantum-Swarm Engine: Engineered an algorithmic asset allocation framework pairing Harris Hawks Optimization (HHO) swarm intelligence with Qiskit quantum-random trajectory sampling for non-convex risk landscape navigation.
+### Experience
 
-Financial NLP & Risk Guardrails: Integrated fine-tuned FinBERT models to parse financial market sentiment and live earnings dynamics, dynamically constraining optimization bounds based on sentiment scores.
+**Quantum Research Intern — IIIT-Nagpur** *(May 2026 – Aug 2026)*
+- Researched post-quantum cryptography, quantum-inspired optimization, and high-performance network security architectures.
+- Architected a quantum-classical hybrid portfolio optimizer using Harris Hawks swarm optimization guided by quantum-random trajectory generation and FinBERT sentiment constraints.
+- Benchmarked quantum-enhanced stochastic processes against classical pseudorandom baselines, validating statistical convergence across trial runs.
 
-Automated LLM Reporting Pipeline: Built an automated LLM narrative synthesis pipeline that converts complex mathematical risk vectors and backtest metrics into executive-ready quantitative research reports.
+---
 
-Cloud Architecture: Scaled execution and asset data processing pipelines on AWS EC2 and AWS S3 for asynchronous data streaming and model evaluation.
+### Tech Stack
 
-Experience
+**Languages:** Python · Java · C++ · JavaScript
+**Quantum & ML:** Qiskit · PyTorch/TensorFlow · FinBERT · Swarm Intelligence (HHO)
+**Full-Stack:** MERN (MongoDB, Express, React, Node.js)
+**Cloud & DevOps:** AWS (EC2, S3, Lambda) · Git/GitHub CLI
+**Databases:** SQL · MongoDB
 
-Quantum Research Intern | IIIT-Nagpur (May 2026 – Aug 2026)
+---
 
-Conducted research on post-quantum cryptography, quantum-inspired optimization algorithms, and high-performance network security architectures.
+### Reach Me
 
-Architected a quantum-classical hybrid portfolio optimizer leveraging Harris Hawks swarm optimization guided by quantum-random trajectory generation and FinBERT sentiment constraints.
-
-Benchmarked quantum-enhanced stochastic processes against classical pseudorandom baselines, validating statistical convergence across trial executions (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma \approx 0.02$).
-
-Connect with Me
-
-[
-
-](mailto:maneshrammg@gmail.com)
-[
-
-](https://www.linkedin.com/in/manesh-ram-3bbb17285/)
+📧 [maneshrammg@gmail.com](mailto:maneshrammg@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/manesh-ram-3bbb17285/)

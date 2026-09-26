@@ -1,55 +1,54 @@
-# Hi, I'm Manesh Ram 
+Hi, I'm Manesh Ram
 
-### Computer Science Student
-* Computer Science Engineer and Quantum-ML Researcher working at the intersection of Quantum Computing, Applied AI/ML, High-Performance Systems, and Financial Intelligence.
-* **Quantum & AI/ML Research:** Hands-on experience developing hybrid quantum-classical algorithms, swarm intelligence optimization models, post-quantum security research, and computer vision applications.
-* **Financial Engineering & Markets:** Formal certification in Financial Markets from Yale University, specializing in engineering quantitative risk systems and algorithmic portfolio optimization models.
-* **Full-Stack & Cloud Architecture:** Proficient in production-grade software development using the MERN stack alongside AWS cloud infrastructure, including EC2, S3, and Lambda.
+Computer Science Student
 
----
+Computer Science Engineer and Quantum-ML Researcher working at the intersection of Quantum Computing, Applied AI/ML, High-Performance Systems, and Financial Intelligence.
 
-### Technical Skills
+Quantum & AI/ML Research: Hands-on experience developing hybrid quantum-classical algorithms, swarm intelligence optimization models, post-quantum security research, and computer vision applications.
 
-#### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0055E6?style=for-the-badge&logo=fastapi&logoColor=white)
+Financial Engineering & Markets: Formal certification in Financial Markets from Yale University, specializing in engineering quantitative risk systems, algorithmic portfolio optimization models, and AI-driven financial NLP analytics.
 
-#### **Quantum, ML & Cloud**
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+Full-Stack & Cloud Architecture: Proficient in production-grade software development using the MERN stack alongside AWS cloud infrastructure (EC2, S3, Lambda) for deploying scalable machine learning and optimization pipelines.
 
-#### **Databases & Tools**
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Technical Skills
 
----
+Languages & Frameworks
 
-### Experience
+Quantum, AI/ML & Swarm Intelligence
 
-#### **Quantum Research Intern** | IIIT-Nagpur *(May 2026 – Present)*
-* Conducted literature reviews on post-quantum cryptography, quantum-inspired optimization, and network security to identify architectural gaps.
-* Built a quantum-classical hybrid portfolio optimizer using Harris Hawks swarm intelligence guided by Qiskit quantum-random search trajectories, with a fine-tuned FinBERT sentiment model as a risk guardrail on allocations.
-* Benchmarked quantum vs. classical randomness across multiple runs, demonstrating comparable performance with statistical validation (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma\approx0.02$).
+Cloud, DevOps & Databases
 
----
+Achievements
 
-### Connect with Me
+Top 30 Finalist | Google DeepMind 2026 (Bangalore): Recognized among the top 30 participants for developing advanced AI solutions leveraging Google DeepMind frameworks and cutting-edge architectures.
 
-<p align="left">
-  <a href="mailto:maneshrammg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/manesh-ram-3bbb17285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Featured Projects
+
+Quantum-Swarm Hybrid Portfolio Optimizer & Automated Financial Reporting
+
+Hybrid Quantum-Swarm Engine: Engineered an algorithmic asset allocation framework pairing Harris Hawks Optimization (HHO) swarm intelligence with Qiskit quantum-random trajectory sampling for non-convex risk landscape navigation.
+
+Financial NLP & Risk Guardrails: Integrated fine-tuned FinBERT models to parse financial market sentiment and live earnings dynamics, dynamically constraining optimization bounds based on sentiment scores.
+
+Automated LLM Reporting Pipeline: Built an automated LLM narrative synthesis pipeline that converts complex mathematical risk vectors and backtest metrics into executive-ready quantitative research reports.
+
+Cloud Architecture: Scaled execution and asset data processing pipelines on AWS EC2 and AWS S3 for asynchronous data streaming and model evaluation.
+
+Experience
+
+Quantum Research Intern | IIIT-Nagpur (May 2026 – Aug 2026)
+
+Conducted research on post-quantum cryptography, quantum-inspired optimization algorithms, and high-performance network security architectures.
+
+Architected a quantum-classical hybrid portfolio optimizer leveraging Harris Hawks swarm optimization guided by quantum-random trajectory generation and FinBERT sentiment constraints.
+
+Benchmarked quantum-enhanced stochastic processes against classical pseudorandom baselines, validating statistical convergence across trial executions (Mean Sharpe ratio ~1.29 vs. ~1.28, $\sigma \approx 0.02$).
+
+Connect with Me
+
+[
+
+](mailto:maneshrammg@gmail.com)
+[
+
+](https://www.linkedin.com/in/manesh-ram-3bbb17285/)
